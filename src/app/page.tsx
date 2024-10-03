@@ -1,6 +1,6 @@
 
  
-import QuizApp from '@/components/quizApp'
+import SnakeGame from '@/components/snakeGame'
 import React from 'react'
  
  
@@ -8,7 +8,7 @@ import React from 'react'
 const Page = () => {
   return (
     <div>
-   <QuizApp/>
+   <SnakeGame/>
     </div>
   )
 }
